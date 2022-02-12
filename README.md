@@ -8,6 +8,11 @@
 
 🤯 I have basic knowledge in various programming languages such as Java, C++, and HTML.
 
+## Hobbies
+⚡ Music, Art, Coding, Gaming, and Cosplay.
+
+🎶 I know how to play the guitar, ukulele, piano, kalimba, and a bit of the violin.
+
 ## Currently
 
 🔭 Working on my streaming career.
@@ -15,7 +20,7 @@
 🌱 Learning more art skills and Python.
 
 ## Reach me at
-[School Email](mailto:allanayzabelle.diaz@wvsu.edu.ph?subject=[GitHub]%20Source%20Han%20Sans)
+📫 [School Email](mailto:allanayzabelle.diaz@wvsu.edu.ph?subject=[GitHub]%20Source%20Han%20Sans)
 
 
 <!--
