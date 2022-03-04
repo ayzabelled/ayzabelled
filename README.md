@@ -6,7 +6,7 @@
 
 🐱 I am a fur parent of two cats.
 
-🤯 I have basic knowledge in various programming languages such as Java, C++, and HTML.
+🤯 I have intermediate knowledge in the programming languages Java, and C++.
 
 ## Hobbies
 ⚡ Music, Art, Coding, Gaming, and Cosplay.
