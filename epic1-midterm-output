@@ -1,0 +1,106 @@
+import turtle
+
+window = turtle.Screen()
+window.bgcolor('white')
+turtle.title("Mandala Art | Allana Yzabelle M. Diaz | CSS 221 | BSCS 1A")
+
+
+t = turtle.Turtle()
+t.speed(0)
+penSize = 4
+t.pensize(penSize)
+outrad = 300
+
+t.up()
+t.pensize(3)
+t.goto(0,0)
+t.down()
+t.pencolor('black')
+t.fillcolor('white')
+t.begin_fill()
+for i in range (32):
+        t.circle(260-i,90)
+        t.left(90)
+        t.circle(260-i,90)
+        t.left(45)
+t.end_fill()
+
+t.up()
+t.pensize(3)
+t.speed(0)
+t.fillcolor('white')
+t.begin_fill
+for i in range (60):
+        t.penup()
+        t.goto(0,0)
+        t.right(102)
+        t.forward(220)
+        t.pendown()
+        t.circle(40)
+t.end_fill
+
+t.up()
+t.pensize(3)
+t.goto(0,0)
+t.down()
+t.pencolor('black')
+t.fillcolor('white')
+t.begin_fill()
+for i in range (24):
+        t.circle(180-i,90)
+        t.left(90)
+        t.circle(180-i,90)
+        t.left(15)
+t.end_fill()
+
+t.up()
+t.goto(0,-180)
+t.down()
+t.color("black")
+t.fillcolor("white")
+t.begin_fill()
+t.circle(180)
+t.end_fill()
+
+t.up()
+t.pensize(3)
+t.goto(0,0)
+t.down()
+for j in range(20):
+	t.begin_fill()  
+	t.right(360/10)
+	t.color('black')
+	for i in range(4):
+		t.forward(130)
+		t.left(90)
+	t.end_fill()
+
+t.up()
+t.goto(0, -140)
+t.down()
+t.color("black")
+t.fillcolor("white")
+t.begin_fill()
+t.circle(140)
+t.end_fill()
+
+
+t.up()
+t.pensize(3)
+t.goto(0,0)
+t.down()
+t.pencolor('black')
+t.fillcolor('white')
+t.begin_fill()
+for i in range (40):
+        t.circle(100-i,90)
+        t.left(90)
+        t.circle(100-i,90)
+        t.left(15)
+t.end_fill()
+
+
+
+        
+t.hideturtle()
+turtle.exitonclick()
