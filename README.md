@@ -1,23 +1,11 @@
 ### 👋 Hola!
-## About Me
-💗 I am Allana Yzabelle Diaz, a 19 year-old taking up BS in Computer Science at West Visayas State University.
+## Mandala Art
+🌱 This is mostly inspired by flowers and a looooot of pictures on google.
+🌱 This also took me a while to make because I wasn't satisfied with it and did try a couple of different ways and designs.
+🌱 I wanted to try it with gradient colors but then I also wanted to stick to how it is traditionally, black and white.
 
-👩🏻 My pronouns are She/Her
-
-🐱 I am a fur parent of two cats.
-
-🤯 I have intermediate knowledge in the programming languages Java, and C++.
-
-## Hobbies
-⚡ Music, Art, Coding, Gaming, and Cosplay.
-
-🎶 I know how to play the guitar, ukulele, piano, kalimba, and a bit of the violin.
-
-## Currently
-
-🔭 Working on my streaming career.
-
-🌱 Learning more art skills and Python.
+## References
+🌱 Google 🌱 Youtube 🌱 Github
 
 ## Reach me at
 📫 [School Email](mailto:allanayzabelle.diaz@wvsu.edu.ph?subject=[GitHub]%20Source%20Han%20Sans)
